@@ -3,4 +3,4 @@ This is a very simple open redirect scanner for all ExpressJs &lt; 1.7.2. It tak
 
 Run it like "./Script.sh urls.txt"
 
-Remember, urls should be in the format site.com, not http://site.com
+Remember, urls should be in the format "site.com" or "www.site.com", not "http://site.com"
